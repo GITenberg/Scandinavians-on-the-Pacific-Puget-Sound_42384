@@ -1,0 +1,26 @@
+_repo: Scandinavians-on-the-Pacific-Puget-Sound_42384
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42384-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stine, Thomas Ostenson
+    gutenberg_agent_id: '41660'
+    url: http://www.gutenberg.org/2009/agents/41660
+description: History of the settlement of people from Scandinavia throughout the western
+  side of the state of Washington from Tacoma to Bellingham.
+gutenberg_issued: '2013-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scandinavian Americans'
+- !lcsh 'Washington (State) -- Emigration and immigration'
+- !lcc 'F850.5'
+title: Scandinavians on the Pacific, Puget Sound
+url: http://www.gutenberg.org/ebooks/42384
