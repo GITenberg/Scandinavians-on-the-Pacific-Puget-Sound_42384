@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41660
 description: History of the settlement of people from Scandinavia throughout the western
   side of the state of Washington from Tacoma to Bellingham.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42384#Scandinavians-on-the-Pacific-Puget-Sound
 gutenberg_issued: '2013-03-21'
 gutenberg_type: Text
 identifiers:
